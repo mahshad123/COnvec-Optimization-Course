@@ -1,2 +1,2 @@
-# COnvec-Optimization-Course
-All the homework for Convex decomposition
+# Convex-Optimization-Course
+All the homework for Convex optimization
